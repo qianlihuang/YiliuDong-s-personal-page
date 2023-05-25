@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "YiliuDong / Hello"
 title_separator          : "-"
-name                     : &name "qianlihuang/天马萧萧/David/Dylan"
+name                     : &name "David/Dylan"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
