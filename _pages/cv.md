@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT), September 2021 - Present
+  * Minor in Entrepreneurship and Innovation in Smart Transportation
+* High School Diploma, Shanghai Nanyang Model High School, September 2018 - August 2021
 
-Work experience
+Contact Information
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Name: Yiliu Dong
+* Date of Birth: September 21, 2002
+* Major: Computer Science and Technology, Minor in Innovation and Entrepreneurship in Smart Transportation
+* College: School of Computer Science/ Ye Peida School of Innovation and Entrepreneurship
+* University: Beijing University of Posts and Telecommunications
+* Phone: (86)13120583433
+* Email: dongyiliu@bupt.edu.cn / qianlihuang922@gmail.com / 1098822169@qq.com
+* GitHub: qianlihuang (dyl) (github.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -36,24 +35,36 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Work Experience
+======
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
