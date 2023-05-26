@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT), September 2021 - Present
-  * Minor in Entrepreneurship and Innovation in Smart Transportation
+  * Minor in Innovation and Entrepreneurship in Smart Transportation
 * High School Diploma, Shanghai Nanyang Model High School, September 2018 - August 2021
 
 Contact Information
