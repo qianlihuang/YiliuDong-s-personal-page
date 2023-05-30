@@ -28,6 +28,23 @@ Contact Information
 * Email: dongyiliu@bupt.edu.cn / qianlihuang922@gmail.com / 1098822169@qq.com
 * GitHub: qianlihuang (dyl) (github.com)
 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Work Experience
+======
+* Summer 1444: Doctor
+  * Ming University
+  * Duties included: Tagging issues
+  * Supervisor: Emperor Zhu
+
+
 Details
 ======
 Here's repo of my CV([nihao](https://github.com/qianlihuang/dongyiliu)). 
