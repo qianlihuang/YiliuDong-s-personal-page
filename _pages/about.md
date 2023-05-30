@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently an undergraduate.
 
-Here's repo of my CV([nihao](https://github.com/qianlihuang/dongyiliu)). 
+
 
 主页还有很多地方没弄好。
 
