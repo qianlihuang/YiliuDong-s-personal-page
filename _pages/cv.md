@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here's repo of my CV([nihao](https://github.com/qianlihuang/dongyiliu)). 
+
 Education
 ======
 * B.S. in Computer Science and Technology, Beijing University of Posts and Telecommunications (BUPT), September 2021 - Present
